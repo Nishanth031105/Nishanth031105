@@ -24,7 +24,7 @@ A web application for flood-risk monitoring, community alerts, and map-based inf
 ### [Traffic Congestion Prediction](https://github.com/Nishanth031105/traffic-conjestion)
 A Python project that explores traffic congestion prediction and route intelligence through an interactive dashboard.
 
-**Tech:** Python, Streamlit, JavaScript
+**Tech:** Python, JavaScript
 
 ### [Gig Works Platform](https://github.com/Nishanth031105/gig-platform)
 A work-in-progress gig marketplace application with user roles, job workflows, and an admin interface.
