@@ -16,6 +16,11 @@ I am an aspiring Python developer focused on building practical web applications
 
 ## Featured Projects
 
+### [Gig Works Platform](https://github.com/Nishanth031105/gig-platform)
+A work-in-progress gig marketplace application with user roles, job workflows, and an admin interface.
+
+**Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
+
 ### [AquaAlert — Flood Management & Alert System](https://github.com/Nishanth031105/AquaAlert)
 A web application for flood-risk monitoring, community alerts, and map-based information.
 
@@ -25,11 +30,6 @@ A web application for flood-risk monitoring, community alerts, and map-based inf
 A Python project that explores traffic congestion prediction and route intelligence through an interactive dashboard.
 
 **Tech:** Python, JavaScript
-
-### [Gig Works Platform](https://github.com/Nishanth031105/gig-platform)
-A work-in-progress gig marketplace application with user roles, job workflows, and an admin interface.
-
-**Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
 
 ## Contact
 
