@@ -1,11 +1,11 @@
-# Hi, I'm Nishanth 👋
+# Hi, I'm Nishanth 
 
 ### Aspiring Python Developer | Open to Internship Opportunities
 
 I am an aspiring Python developer focused on building practical web applications and backend projects. I enjoy turning real-world problems into clean, usable software.
 
-- 🌱 Currently strengthening my Python, Flask, SQL, and backend-development skills
-- 💼 Seeking Python Developer and Software Developer internship opportunities
+-  Currently strengthening my Python, Flask, SQL, and backend-development skills
+-  Seeking Python Developer and Software Developer internship opportunities
 
 ## Technical Skills
 
