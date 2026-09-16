@@ -1,11 +1,11 @@
-# Hi, I'm Nishanth 
+# Hi, I'm Nishanth
 
 ### Aspiring Python Developer | Open to Internship Opportunities
 
 I am an aspiring Python developer focused on building practical web applications and backend projects. I enjoy turning real-world problems into clean, usable software.
 
--  Currently strengthening my Python, Flask, SQL, and backend-development skills
--  Seeking Python Developer and Software Developer internship opportunities
+- Currently strengthening my Python, Flask, SQL, and backend-development skills
+- Seeking Python Developer and Software Developer internship opportunities
 
 ## Technical Skills
 
@@ -20,6 +20,11 @@ I am an aspiring Python developer focused on building practical web applications
 A work-in-progress gig marketplace application with user roles, job workflows, and an admin interface.
 
 **Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
+
+### [NoNap — Driver Drowsiness Detection](https://github.com/priyadharshiniep05/NoNap)
+A collaborative, real-time driver drowsiness detection mobile application focused on road safety.
+
+**Tech:** React Native, Expo, Python
 
 ### [AquaAlert — Flood Management & Alert System](https://github.com/Nishanth031105/AquaAlert)
 A web application for flood-risk monitoring, community alerts, and map-based information.
