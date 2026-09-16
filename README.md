@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nishanth 👋
 
-<!--
-**Nishanth031105/Nishanth031105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Developer | Open to Internship Opportunities
 
-Here are some ideas to get you started:
+I am an aspiring Python developer focused on building practical web applications and backend projects. I enjoy turning real-world problems into clean, usable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently strengthening my Python, Flask, SQL, and backend-development skills
+- 💼 Seeking Python Developer and Software Developer internship opportunities
+
+## Technical Skills
+
+- **Languages:** Python, JavaScript, SQL, HTML, CSS
+- **Backend:** Flask, REST APIs
+- **Databases:** MySQL
+- **Tools:** Git, GitHub
+
+## Featured Projects
+
+### [AquaAlert — Flood Management & Alert System](https://github.com/Nishanth031105/AquaAlert)
+A web application for flood-risk monitoring, community alerts, and map-based information.
+
+**Tech:** Python, Flask, JavaScript, HTML, CSS
+
+### [Traffic Congestion Prediction](https://github.com/Nishanth031105/traffic-conjestion)
+A Python project that explores traffic congestion prediction and route intelligence through an interactive dashboard.
+
+**Tech:** Python, Streamlit, JavaScript
+
+### [Gig Works Platform](https://github.com/Nishanth031105/gig-platform)
+A work-in-progress gig marketplace application with user roles, job workflows, and an admin interface.
+
+**Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
+
+## Contact
+
+- 📧 [nishanthshetty620@gmail.com](mailto:nishanthshetty620@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nishanthp-shetty)
